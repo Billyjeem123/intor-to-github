@@ -1,0 +1,22 @@
+shoe commit history
+
+git log/{show} show commit history..
+
+git ls files to check which file git is tracking 
+
+touch... add anew file via cli
+
+express commit am=""
+
+Back out changes from git.. git checkout --{filename}
+
+ change file name. use git mv {existing name} to {new name}{use fm rf for  that file
+total deleteion}
+
+check diff btw 2 commit hist.. git diff
+
+
+
+
+
+
