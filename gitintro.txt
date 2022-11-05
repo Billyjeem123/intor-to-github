@@ -15,6 +15,9 @@ total deleteion}
 
 check diff btw 2 commit hist.. git diff
 
+pull  is two comands in one .. {fetch from online repo then mege local repo
+}fetch and merge {{use fit fetch to fetch changes from remote repo
+
 
 
 
